@@ -1,0 +1,183 @@
+{
+    "questions": [{
+            "questionText": "In which city was Messi born, living there until he signed for Barcelona as a 13-year-old?",
+            "options": [{
+                    "text": "Rosario",
+                    "correct": true
+                },
+                {
+                    "text": "Buenos Aires"
+                },
+                {
+                    "text": "Cordoba"
+                },
+                {
+                    "text": "Kochi"
+                }
+            ],
+            "explanation": "Messi was born and raised in Rosario, where his exceptional talent first became apparent."
+        },
+        {
+            "questionText": "Before signing for Barcelona, Messi played for the youth sides of which club? ",
+            "options": [{
+                    "text": "Kerala Plasters"
+                },
+                {
+                    "text": "River Plate"
+                },
+                {
+                    "text": "Rosario Central"
+                },
+                {
+                    "text": "Newell's Old Boys",
+                    "correct": true
+                }
+            ],
+            "explanation": "Messi formed part of a near-unbeatable youth side at Newell's, nicknamed 'The Machine of '87', after the year the group were born."
+        },
+        {
+            "questionText": "How was a young Messi's future famously signed over to Barcelona in the Pompeia tennis club?",
+            "options": [{
+                    "text": "On the a book"
+                },
+                {
+                    "text": "On the back of a napkin",
+                    "correct": true
+                },
+                {
+                    "text": "On a Estrella beer mat"
+                },
+                {
+                    "text": "On a pack of tennis balls"
+                }
+            ],
+            "explanation": "With Barcelona taking their time to sign a young Messi, the player's agents threatened the club's technical director Charly Rexach that they would take him to Real Madrid. This happened after a game of tennis at Pompeia, a short distance from the Camp Nou. With no paper available to him, Rexach wrote Barca's commitment to signing him on the back of a napkin. This was enough."
+        },
+        {
+            "questionText": "Which of these players did NOT play in the same Barcelona youth side as Messi?",
+            "options": [{
+                    "text": "Gerard Pique"
+                },
+                {
+                    "text": "Andres Iniesta",
+                    "correct": true
+                },
+                {
+                    "text": "Cesc Fabregas"
+                },
+                {
+                    "text": "Neymar Jr."
+                }
+            ],
+            "explanation": "All three are products of the club's fabled La Masia academy system, but Iniesta came through the youth ranks three years prior to the Generacion del '87 side which featured Messi, Fabregas and Pique."
+        },
+        {
+            "questionText": "Which manager gave Messi his Barcelona debut?",
+            "options": [{
+                    "text": "Frank Rijkaard",
+                    "correct": true
+                },
+                {
+                    "text": "Luis van Gaal"
+                },
+                {
+                    "text": "Pep Guardiola"
+                },
+                {
+                    "text": "Xavi"
+                }
+            ],
+            "explanation": "Though it was under Guardiola that Messi's career started to hit the heights, it was Rijkaard who gave him his first appearance for the club - in a derby with Espanyol."
+        },
+        {
+            "questionText": "Which squad number did Messi wear during his early appearances for Barcelona's first team?",
+            "options": [{
+                    "text": "10"
+                },
+                {
+                    "text": "19"
+                },
+                {
+                    "text": "11"
+                },
+                {
+                    "text": "30",
+                    "correct": true
+                }
+            ],
+            "explanation": "Although Messi is synonymous with the 10 shirt, his first official appearances for Barca were in the number 30. He also wore 19 before inheriting the number 10 from Ronaldinho in 2008."
+        },
+        {
+            "questionText": "Messi scored his first official goal for Barcelona in May 2005, in stoppage time of a game against which club?",
+            "options": [{
+                    "text": "Getafe"
+                },
+                {
+                    "text": "Albacete",
+                    "correct": true
+                },
+                {
+                    "text": "Numancia"
+                },
+                {
+                    "text": "Valencia"
+                }
+            ],
+            "explanation": "Having come on as a late sub, Messi had already seen one goal ruled out for offside when Ronaldinho scooped a pass over a defender and into his path. He lobbed the ball over the goalkeeper to score the first of many, many Barca goals."
+        },
+        {
+            "questionText": "What happened within two minutes of Messi coming on as a substitute for his Argentina debut against Hungary in 2005?",
+            "options": [{
+                    "text": "He was controversially sent off",
+                    "correct": true
+                },
+                {
+                    "text": "He was substituted after straining his calf"
+                },
+                {
+                    "text": "He scored a free-kick with his first touch"
+                },
+                {
+                    "text": "Scored hatrick with his right hand"
+                }
+            ],
+            "explanation": "After catching an opponent in the face while mid-dribble, Messi was shown a straight red card. "
+        },
+        {
+            "questionText": "Messi was too upset to celebrate after missing Barcelona's Champions League final win in 2006. Why did he miss the game?",
+            "options": [{
+                    "text": "Injured",
+                    "correct": true
+                },
+                {
+                    "text": "Dropped"
+                },
+                {
+                    "text": "Suspension"
+                },
+                {
+                    "text": "He was Drunk"
+                }
+            ],
+            "explanation": "A hamstring injury ruled the young Messi out of the game against Arsenal."
+        },
+        {
+            "questionText": "In which year did Messi win his first Ballon d'Or?",
+            "options": [{
+                    "text": "2009",
+                    "correct": true
+                },
+                {
+                    "text": "2008"
+                },
+                {
+                    "text": "2007"
+                },
+                {
+                    "text": "2010"
+                }
+            ],
+            "explanation": "A hamstring injury ruled the young Messi out of the game against Arsenal."
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+<div class="container bg-light py-5">
+    <h1 class="display-5 fw-bold">Welcome to the GOAT Quiz</h1>
+    <p class="col-md-8 fs-4"> This quiz app will test your knowledge on LIONEL MESSI</p>
+    <h4>
+        Rules:
+    </h4>
+    <ol>
+        <li>Correct Answer gives 10 points.</li>
+        <li>Incorrect Answer gives -10 points. </li>
+        <li>Dont refresh the page will Answering.</li>
+        <li>There will be 10 sec for every question. </li>
+        
+    </ol>
+    <h1 class="text-center" style="font-family: 'Roboto', sans-serif; font-weight: 400;">Lets Go Champ!!!!</h1>
+
+    <div class="name col-md-4 my-3">
+        <label for="">Enter Your Name:</label>
+        <input #name type="text" class="form-control">
+    </div>
+    <button class="btn btn-primary btn-lg" routerLink="/question" (click)="startQuiz()">
+        Start
+    </button>
+
+
+</div>
