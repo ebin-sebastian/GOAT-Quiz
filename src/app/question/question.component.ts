@@ -37,6 +37,7 @@ export class QuestionComponent implements OnInit{
 
   nextQuestion(){
     this.currentQuestion++
+    this.resetcounter()
   }
   prevQuestion(){
     this.currentQuestion--
@@ -108,5 +109,7 @@ export class QuestionComponent implements OnInit{
     this.progress = ((this.currentQuestion/this.questionList.length)*100).toString()
     return this.progress
   }
+
+  
 
 }
